@@ -2,7 +2,7 @@
     function printName($name){
         return "Name:" .$name ."<br>";
     }
-    echo printName("Roshan")
+    echo printName("Roshan Ghimire")
 
 ?>
 
