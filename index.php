@@ -22,7 +22,7 @@
 
         // $sum  = $num1 + $num2;
 
-        // echo "<h1>Sum of two numbers is $sum  </h1> ";
+        // echo "<h2>Sum of two numbers is $sum  </h2> ";
 
 
 
