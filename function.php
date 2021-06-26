@@ -11,7 +11,7 @@
 <?php
     function printName1(){
 
-        $name1 = "Ravi";
+        $name1 = "Ram";
         echo "Name:" .$name1;
     }
     printName1();
