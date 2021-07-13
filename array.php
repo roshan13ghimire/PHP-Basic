@@ -1,5 +1,5 @@
 <?php
-    $names = array("Roshan" , "Ravi" ,"Ashu" , "Aayush");
+    $names = array("Roshan" , "Ravi" ,"Ashutosh" , "Aayush");
 
     foreach ($names as $values)
     {
